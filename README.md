@@ -5,6 +5,8 @@ Based on a gui-dd project, this pulls out the important bits into a much smaller
 
 Original dd-gui project: https://github.com/gingerbeardman/dd-gui
 
+*BEFORE USING* Be sure to modify visual-dd.sh with the full path location of the "bar" command.
+
 Usage
 ====
 
